@@ -1,0 +1,1 @@
+this app need first download localy the model of chatbot and here used model is gpt2 follow hugging face to install or download that model
